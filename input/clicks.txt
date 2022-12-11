@@ -1,0 +1,3 @@
+Dock, /home, 1000
+Dock1, /cart, 2000
+Dock2, /prod%id=100, 3000
